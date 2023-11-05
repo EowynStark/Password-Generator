@@ -10,7 +10,8 @@ original sourcecode by <a href="https://github.com/coding-boot-camp/friendly-par
 Javascript modified by Andria Jean
 
 ## Mock Up
-
+<a href ="#">link to page</a>
+<img src="./assets/_C__Bootcamp_Password-Generator_Password-Generator_index.html.png">
 
 ## License
 MIT License
