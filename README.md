@@ -7,10 +7,10 @@ This is a webpage application designed to help a user generate a secure password
 ## Authors and Credits
 original sourcecode by <a href="https://github.com/coding-boot-camp/friendly-parakeet">Xandromus</a>, as provided through coding-boot-camp.
 
-Javascript modified by Andria Jean
+Javascript modified by <a href="https://github.com/EowynStark/Password-Generator">Andria Jean</a>
 
 ## Mock Up
-<a href ="#">link to page</a>
+<a href ="https://eowynstark.github.io/Password-Generator/">link to page</a>
 <img src="./assets/_C__Bootcamp_Password-Generator_Password-Generator_index.html.png">
 
 ## License
